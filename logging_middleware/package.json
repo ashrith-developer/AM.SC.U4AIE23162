@@ -1,0 +1,13 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for AffordMed evaluation services.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test/logger.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

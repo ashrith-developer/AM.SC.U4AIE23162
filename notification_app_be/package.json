@@ -1,0 +1,14 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "description": "Priority notification inbox backend for AffordMed evaluation.",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node test/priority.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
